@@ -70,7 +70,7 @@ function AppContent() {
       <header className="bg-gradient-to-r from-blue-600 to-blue-700 py-6 shadow-md">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col items-center">
-            <h1 className="text-white text-2xl font-bold mb-4">Find Your Doctor</h1>
+            <h1 className="text-white text-2xl font-bold mb-4">Here are you Doctors</h1>
             <div className="w-full max-w-2xl mx-auto">
               <SearchBar
                 doctors={doctors}
